@@ -16,8 +16,7 @@ A brief description of what the project does and its purpose.
 
 Example:
 
-This is web game for popular game that all we know rock paper scissor. 
-i am so open to use my source code to develop this game and make it more userfirendly and add some other feature like play online with firends or make it possible to make bet in outcome of matches.
+This is a web-based version of the classic game we all know—Rock, Paper, Scissors. I'm open to using my source code to enhance the game, making it more user-friendly and adding new features like online multiplayer with friends or the option to place bets on match outcomes.
 
 
 🚀 Features
